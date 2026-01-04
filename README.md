@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="screenshot 1" src="https://github.com/user-attachments/assets/06d7699b-edfc-4723-a2cf-e24d79dff23f" /># Store Data Analysis using Excel
+## Store Data Analysis using Excel
 
 ## Project Overview
 This project analyzes store sales data to identify trends, product performance, and business insights using Microsoft Excel.
