@@ -30,3 +30,6 @@ This project analyzes store sales data to identify trends, product performance, 
 ## Author
 Pandurang Yadav
 
+## Conclusion
+Analyzed store sales data using Excel to extract actionable insights through pivot tables and dashboards, supporting data-driven decision-making.
+
