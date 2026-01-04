@@ -3,8 +3,8 @@
 ## Project Overview
 This project analyzes store sales data to identify trends, product performance, and business insights using Microsoft Excel.
 
-## Dataset link 
--<a herf="https://github.com/yadavpandurang07/Data-Analysis-Dashboard/commit/cf2143e5109c00bf4cc0532568e8c909467d587a">Yadavfasionstore</a>
+## Dataset used 
+-<a herf="https://github.com/yadavpandurang07/Data-Analysis-Dashboard/blob/main/Copy%20of%20Store%20Data%20Analysis%5E%5E.xlsx">Dataset</a>
 
 ## Tools Used
 - MS Excel
